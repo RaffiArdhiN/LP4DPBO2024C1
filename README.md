@@ -4,4 +4,4 @@
 
 Dalam tugas kali ini, saya mendesain sebuah program untuk mengecek kendaraan dalam suatu garasi, berikut merupakan rancangan kelasnya : 
 
-![Struktur Kelas](Screenshot 2024-03-05 060310.png)
+![Struktur Kelas](image.png)
