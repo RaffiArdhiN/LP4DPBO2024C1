@@ -5,3 +5,5 @@
 Dalam tugas kali ini, saya mendesain sebuah program untuk mengecek kendaraan dalam suatu garasi, berikut merupakan rancangan kelasnya : 
 
 ![Struktur Kelas](image.png)
+
+Kelas vehicle akan memiliki turunan dengan car dan motorcycle, lalu kelas parkinglot akan memiliki turunan kelas garage. Kelas garage sendiri akan berkomposit dengan kelas vehicle
